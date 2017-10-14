@@ -1,0 +1,9 @@
+
+■導入の参考になりそうなURLを記載
+
+<NUnitのインストール手順メモ>
+http://hidari-lab.hatenablog.com/entry/the_nowing_nunit_installation
+
+<NUnitをインストールする>
+http://blog.hiros-dot.net/?p=5255
+
